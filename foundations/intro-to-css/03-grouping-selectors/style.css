@@ -1,0 +1,12 @@
+.me,
+.no {
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
+.me {
+    background-color: #000f;
+    color: #ffff;
+}
+.no {
+    background-color: #fafa04;
+}
